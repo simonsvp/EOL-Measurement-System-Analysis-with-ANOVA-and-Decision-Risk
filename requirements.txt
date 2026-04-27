@@ -1,0 +1,9 @@
+The main Python libraries which I used in this project are:
+
+- pandas
+- numpy
+- matplotlib
+- scipy
+- statsmodels
+
+These libraries support data handling, visualization, hypothesis testing, and ANOVA analysis.
